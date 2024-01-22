@@ -22,4 +22,3 @@
 ### Step 4 - Expand and refactor
 
 ## Now follow the instructions in this final step. Expand your project. Clean up the code. Make your application functional. Great job getting your first Python application finished!
-
