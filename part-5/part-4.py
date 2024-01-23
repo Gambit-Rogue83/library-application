@@ -217,8 +217,8 @@ def main_menu():
             print('Exiting Library')
             pass
 
-
-main_menu()
+if __name__ == '__main__':
+    main_menu()
 
 ### Step 5 - while loops
 

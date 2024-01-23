@@ -1,0 +1,4 @@
+Psychic, Gambit Rogue, 2025, 4.9, 789
+Psychic: Reverence, Gambit Rogue, 2028, 4.9, 912
+Psychic: Radical, Gambit Rogue, 2030, 5.0, 772
+Psychic: Rancour, Gambit Rogue, 2032, 4.8, 808
